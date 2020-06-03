@@ -1,0 +1,108 @@
+body{
+    background-image: url(./pics/hindiba2.jpg);
+    image-rendering: optimizeQuality;
+}
+.container{
+
+    width: 300px;
+    height: 500px;
+
+
+}
+#email{
+
+    width: 280px;
+    height: 45px;
+    margin-left:35px;
+    border: 3px solid;
+    border-color: #A00000 ;
+    border-radius: 15px;
+
+}
+
+#Iemail{
+
+    width: 280px;
+    height: 40px;
+    border-radius: 18px;
+    margin-left:20px;
+      
+
+}
+
+#Ipwd{
+
+    width: 280px;
+    height: 40px;
+    border-radius: 18px;
+    margin-left:20px;
+
+}
+#pwd{
+    
+    width: 300px;
+    height: 45px;
+   
+    border: 3px solid;
+    border-color: #A00000 ;
+    border-radius: 15px;
+}
+.disDiv1{
+    width: 340px;
+    height: 450px;
+    margin-left: 540px;
+    margin-top: 140px;
+    border: 11px double;
+    border-color:#483D8B;
+    border-radius: 15px;
+  
+    padding-top:10px;
+    background-color: transparent;
+}
+
+
+
+
+#btn1{
+    margin-top:20px;
+    margin-left: 30px;
+    background-color:  #4b0085 ;
+    width: 115px;
+    height: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 10px;
+    
+}
+#btn2{
+    margin-top:20px;
+    margin-left: 20px;
+    background-color: #4b0085 ;
+    width: 115px;
+    height: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 10px;
+    
+}
+.label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+    color:#800080;
+    margin-left: 10px;
+
+}
+#FormLabel{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    margin-top: -20px;
+    margin-bottom: 10px
+   
+    
+    
+}
